@@ -7,7 +7,7 @@ import numpy as np
 def read_csv(filename: str, sep: str = ","):
     df = pd.read_csv(filename, sep=sep)
     df = df.replace({np.nan: None})
-    return df.to_dict("records")
+    return df
 
 
 def read_json(filename: str) -> dict | list:
