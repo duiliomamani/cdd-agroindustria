@@ -1,0 +1,43 @@
+name,sowing,harvest,same_year
+Ajo,05,12,true
+Algodón,10,04,false
+Alpiste,09,02,false
+Arroz,09,03,false
+Avena,05,11,true
+Banana,01,12,false
+Caña de azúcar,09,05,false
+Cártamo,09,02,false
+Cebada cervecera,04,10,true
+Cebada forrajera,04,10,true
+Cebolla total,09,03,false
+Centeno,05,12,true
+Girasol,10,04,false
+Limón,01,12,false
+Lino,09,02,false
+Maíz,09,03,false
+Mandarina,01,12,false
+Maní,10,03,false
+Mijo,10,03,false
+Naranja,01,12,false
+Papa total,08,01,false
+Pomelo,01,12,false
+Poroto seco,10,03,false
+Soja total,10,04,false
+Sorgo,10,03,false
+Té,03,11,true
+Trigo total,05,12,true
+Tung,09,02,false
+Yerba mate,03,11,true
+Trigo candeal,05,12,true
+Colza,08,01,false
+Jojoba,09,02,false
+Soja 1ra,10,01,false
+Soja 2da,12,04,false
+Cebada total,04,10,true
+Poroto total,10,03,false
+Arveja,08,01,false
+Garbanzo,09,02,false
+Lenteja,09,02,false
+Poroto alubia,08,01,false
+Poroto negro,08,01,false
+Poroto otros,08,01,false
